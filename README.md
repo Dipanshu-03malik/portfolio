@@ -3,7 +3,7 @@
 Welcome to my **Personal Portfolio Website** repository! This project showcases my skills, projects, and experience in **Software Engineering, Web Development, AI, and Data Analytics**.
 
 🌐 Live Preview
-👉 [View Portfolio Website]((https://dipanshu-03malik.github.io/portfolio/))  
+👉 [View Portfolio Website](https://dipanshu-03malik.github.io/portfolio/)
 
 ---
 
